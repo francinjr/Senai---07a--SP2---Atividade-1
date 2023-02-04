@@ -1,0 +1,15 @@
+C:\senai\atividadesenai\bin\Debug\net7.0\atividadesenai.exe
+C:\senai\atividadesenai\bin\Debug\net7.0\atividadesenai.deps.json
+C:\senai\atividadesenai\bin\Debug\net7.0\atividadesenai.runtimeconfig.json
+C:\senai\atividadesenai\bin\Debug\net7.0\atividadesenai.dll
+C:\senai\atividadesenai\bin\Debug\net7.0\atividadesenai.pdb
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.csproj.AssemblyReference.cache
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.GeneratedMSBuildEditorConfig.editorconfig
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.AssemblyInfoInputs.cache
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.AssemblyInfo.cs
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.csproj.CoreCompileInputs.cache
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.dll
+C:\senai\atividadesenai\obj\Debug\net7.0\refint\atividadesenai.dll
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.pdb
+C:\senai\atividadesenai\obj\Debug\net7.0\atividadesenai.genruntimeconfig.cache
+C:\senai\atividadesenai\obj\Debug\net7.0\ref\atividadesenai.dll
